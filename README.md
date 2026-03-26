@@ -25,5 +25,5 @@ Dipika Biswas
 # Conclusion
 This project helps HR teams understand employee behavior and reduce attrition by making data-driven decisions.
 
-This project helps HR teams understand employee behavior and reduce attrition by making data-driven decisions.
+
 
